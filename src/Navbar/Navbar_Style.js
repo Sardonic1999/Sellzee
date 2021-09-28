@@ -6,7 +6,7 @@ export const Wrapper = styled.div`
   justify-content: center;
   justify-content: space-between;
   width: 1600px;
-  height: 80px;
+  height: 120px;
   box-sizing: border-box;
   background: linear-gradient(264.47deg, #2e43f0 29.39%, #6677ff 93.49%);
 `;
@@ -22,7 +22,7 @@ export const Pages = styled.div`
   li {
     font-family: Inter;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 300;
     font-size: 20px;
     line-height: 160%;
     color: #ffffff;
