@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const Wrapper = styled.div`
   display: flex;
   width: 1600px;
+  height: 700px;
   box-sizing: border-box;
   background: linear-gradient(264.47deg, #2e43f0 29.39%, #6677ff 93.49%);
 `;
