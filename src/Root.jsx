@@ -3,6 +3,7 @@ import Navbar from "./Navbar/Navbar";
 import Body from "./Body/Body";
 import About from "./About/About";
 import Number from "./Number/Number";
+import Card from "./Cards/Card";
 
 const Root = () => {
   return (
@@ -11,6 +12,7 @@ const Root = () => {
       <Body />
       <About />
       <Number />
+      <Card />
     </div>
   );
 };
