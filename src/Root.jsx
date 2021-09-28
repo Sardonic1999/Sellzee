@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "./Navbar/Navbar";
 import Body from "./Body/Body";
 import About from "./About/About";
+import Number from "./Number/Number";
 
 const Root = () => {
   return (
@@ -9,6 +10,7 @@ const Root = () => {
       <Navbar />
       <Body />
       <About />
+      <Number />
     </div>
   );
 };
