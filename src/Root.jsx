@@ -4,6 +4,7 @@ import Body from "./Body/Body";
 import About from "./About/About";
 import Number from "./Number/Number";
 import Card from "./Cards/Card";
+import Review from "./Review/Review";
 
 const Root = () => {
   return (
@@ -13,6 +14,7 @@ const Root = () => {
       <About />
       <Number />
       <Card />
+      <Review />
     </div>
   );
 };
