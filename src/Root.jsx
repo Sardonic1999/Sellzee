@@ -6,6 +6,7 @@ import Number from "./Number/Number";
 import Card from "./Cards/Card";
 import Review from "./Review/Review";
 import Price from "./Price/Price";
+import Letter from "./Newsletter/Letter";
 
 const Root = () => {
   return (
@@ -17,6 +18,7 @@ const Root = () => {
       <Card />
       <Review />
       <Price />
+      <Letter />
     </div>
   );
 };

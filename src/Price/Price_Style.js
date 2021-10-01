@@ -147,4 +147,12 @@ export const Btn = styled.button`
   border-radius: 10px;
   color: white;
   margin-top: 70px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 160%;
+  text-align: center;
+
+  color: #ffffff;
 `;
